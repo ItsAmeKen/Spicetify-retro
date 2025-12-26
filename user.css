@@ -127,7 +127,7 @@
 }
 .spotify__container--is-desktop.spotify__os--is-windows .Root__globalNav,
 .spotify__container--is-desktop.spotify__os--is-macos .Root__globalNav {
-    margin: 0;
+    margin: 2;
     margin-top: var(--global-nav-margin-top);
 }
 .spotify__container--is-desktop.spotify__os--is-linux .Root__globalNav {
