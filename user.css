@@ -851,10 +851,11 @@ a[data-testid="context-link"] img {
 
 /* left nowplaying text */
 .main-nowPlayingBar-left {
-    padding-inline-start: 0 8px;
+    padding-inline-start: 0;
 }
 .main-nowPlayingWidget-trackInfo {
-    margin: 0;
+    gap: 12px;
+    margin: 0 8px;
 }
 
 /* volume bar */
