@@ -851,7 +851,7 @@ a[data-testid="context-link"] img {
 
 /* left nowplaying text */
 .main-nowPlayingBar-left {
-    padding-inline-start: 0;
+    padding-inline-start: 0 8px;
 }
 .main-nowPlayingWidget-trackInfo {
     margin: 0;
