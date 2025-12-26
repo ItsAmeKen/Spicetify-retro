@@ -59,7 +59,7 @@
 
     --border-radius: 0px;
     --border-width: 1px;
-    --border-style: solid; /* dotted | dashed | solid | double | groove | ridge | inset | outset */
+    --border-style: inset; /* dotted | dashed | solid | double | groove | ridge | inset | outset */
     --border-transition: 0.3s cubic-bezier(0.45, 0.05, 0.55, 0.95); /* 'none' to disable  */
     
     --global-nav-margin-top: 50px; /* set to '0px' if you disabled window controls */;
