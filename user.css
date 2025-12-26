@@ -854,8 +854,13 @@ a[data-testid="context-link"] img {
     padding-inline-start: 0;
 }
 .main-nowPlayingWidget-trackInfo {
+    gap: 4px;
+    margin: 5px 18px;
+}
+
+.qqAX5M23YurntqVJ_8Dt{
     gap: 12px;
-    margin: 0 8px;
+    margin: 0 12px;
 }
 
 /* volume bar */
